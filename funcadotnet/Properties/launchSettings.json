@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Func2funcwithSysMI": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7089",
+      "launchBrowser": false
+    }
+  }
+}
